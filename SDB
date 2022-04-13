@@ -3,19 +3,22 @@
 
 <head>
     <meta charset="UTF-8">
-    <title><p style="text-align:center">HSAL Dynamic BlockList</p></title>
+      <title><p style="text-align:center">HSAL Dynamic BlockList</p></title>
 </head>
 
 <body>
     <h1><p style="text-align:center">Palo Alto Dynamic BlockList - Dev</p></h1>
     
-    <p style="text-align:center">Paste IP Address or URL</p>
+      <p style="text-align:center">Paste IP Address or URL</p>
 
-    <label for="name">Enter Sample:</label>
+        <label for="name">Enter Sample:</label>
 
     <input type="text">
 
-    <button type="submit">Block</button> <button type="submit">Check</button> <button type="submit">UnBlock</button>
+       <button type="submit">Block</button> <button type="submit">Check</button> <button type="submit">UnBlock</button>
+    
+         <p style="text-align:center"><input type="textbox" name="display"></p>
+    
 </body>
 
 </html>
