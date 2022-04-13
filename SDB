@@ -7,8 +7,9 @@
 </head>
 
 <body>
-    <h1><p style="text-align:center">HSAL Dynamic BlockList - Dev</p></h1>
-    <p>Paste IP Address or URL</p>
+    <h1><p style="text-align:center">Palo Alto Dynamic BlockList - Dev</p></h1>
+    
+    <p style="text-align:center">Paste IP Address or URL</p>
 
     <label for="name">Enter Sample:</label>
 
